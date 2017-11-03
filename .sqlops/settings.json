@@ -38,7 +38,7 @@
                             "columnsAsLabels": false
                         }
                     },
-                    "queryFile": "/Users/erickang/Projects/Demos/opsproj/activeconnection.sql"
+                    "queryFile": "${workspaceRoot}/.sqlops/sql/activeconnection.sql"
                 }
             }
         },
