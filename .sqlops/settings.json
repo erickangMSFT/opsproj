@@ -2,7 +2,7 @@
 {
     "dashboard.database.widgets": [
         {
-            "name": "Qeury Store: Slow Query",
+            "name": "Query Store: Slow Query",
             "gridItemConfig": {
                 "sizex": 2,
                 "sizey": 1
