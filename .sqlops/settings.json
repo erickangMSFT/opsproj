@@ -1,5 +1,7 @@
 // Place your settings in this file to overwrite default and user settings.
+
 {
+    "dashboard.database.properties": true,
     "dashboard.database.widgets": [
         {
             "name": "Query Store: Slow Query",
@@ -9,16 +11,6 @@
             },
             "widget": {
                 "query-data-store-db-insight": null
-            }
-        },
-        {
-            "name": "Table Space",
-            "gridItemConfig": {
-                "sizex": 2,
-                "sizey": 1
-            },
-            "widget": {
-                "table-space-db-insight": null
             }
         },
         {
