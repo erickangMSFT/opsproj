@@ -24,7 +24,7 @@ Go to SQL Ops Studio [download page](https://aka.ms/sqlopsstudio) for more speci
 1. Run following command to download WideWorldImporters backup file.
 
    ```bash
-   wget wget https://github.com/Microsoft/sql-server-samples/releases/download/wide-world-importers-v1.0/WideWorldImporters-Full.bak
+   wget https://github.com/Microsoft/sql-server-samples/releases/download/wide-world-importers-v1.0/WideWorldImporters-Full.bak
 
    ```
 
